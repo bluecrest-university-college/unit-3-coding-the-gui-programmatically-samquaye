@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\04d716a96b40497cd1745b21a717c98a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b110bc12767104dcb599d535be962f02\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\957b1d9dcd159d3dc4859843e1b557bb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\cb5eacfdf066d97dd3c3d2b5621c6865\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\b56fdcb9057624af16bf48ba3d39dfd9\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\c45f3906f05b19a5145d762141b2ebaf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30df92b8e4f58219a9f3bfd7584bef3b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0473984d8ffb7029fbcdd1f4c1b19b36\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\00cb73c6ed45989775fb39378d006db4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\d9ab44a18f5c34df27e86158e7e09dda\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a83cedb1a862777baa8bd9b1c8703c2d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\66a06367986daf3fef696dacbd603913\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:5:5-38:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\04d716a96b40497cd1745b21a717c98a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\04d716a96b40497cd1745b21a717c98a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b110bc12767104dcb599d535be962f02\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b110bc12767104dcb599d535be962f02\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\957b1d9dcd159d3dc4859843e1b557bb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\957b1d9dcd159d3dc4859843e1b557bb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\cb5eacfdf066d97dd3c3d2b5621c6865\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\cb5eacfdf066d97dd3c3d2b5621c6865\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\c45f3906f05b19a5145d762141b2ebaf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\c45f3906f05b19a5145d762141b2ebaf\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30df92b8e4f58219a9f3bfd7584bef3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30df92b8e4f58219a9f3bfd7584bef3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0473984d8ffb7029fbcdd1f4c1b19b36\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0473984d8ffb7029fbcdd1f4c1b19b36\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\00cb73c6ed45989775fb39378d006db4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\00cb73c6ed45989775fb39378d006db4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\d9ab44a18f5c34df27e86158e7e09dda\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\d9ab44a18f5c34df27e86158e7e09dda\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a83cedb1a862777baa8bd9b1c8703c2d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a83cedb1a862777baa8bd9b1c8703c2d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\66a06367986daf3fef696dacbd603913\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\66a06367986daf3fef696dacbd603913\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:9:9-44
+	android:icon
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:7:9-39
+	android:allowBackup
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.alaskalinuxuser.justchess.IntroActivity
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:15:13-57
+	android:configChanges
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:13:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.alaskalinuxuser.justchess.MainActivity
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:23:9-27:59
+	android:label
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:26:13-45
+	android:configChanges
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:24:13-41
+activity#com.alaskalinuxuser.justchess.aboutActivity
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:28:9-32:59
+	android:label
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:31:13-57
+	android:configChanges
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:30:13-59
+	android:theme
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:29:13-42
+activity#com.alaskalinuxuser.justchess.SettingsActivity
+ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:33:9-37:68
+	android:label
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:36:13-60
+	android:configChanges
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:35:13-59
+	android:theme
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml:34:13-45
+uses-sdk
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\04d716a96b40497cd1745b21a717c98a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\04d716a96b40497cd1745b21a717c98a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b110bc12767104dcb599d535be962f02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b110bc12767104dcb599d535be962f02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\957b1d9dcd159d3dc4859843e1b557bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\957b1d9dcd159d3dc4859843e1b557bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\cb5eacfdf066d97dd3c3d2b5621c6865\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\cb5eacfdf066d97dd3c3d2b5621c6865\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\b56fdcb9057624af16bf48ba3d39dfd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\b56fdcb9057624af16bf48ba3d39dfd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\c45f3906f05b19a5145d762141b2ebaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\c45f3906f05b19a5145d762141b2ebaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30df92b8e4f58219a9f3bfd7584bef3b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30df92b8e4f58219a9f3bfd7584bef3b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0473984d8ffb7029fbcdd1f4c1b19b36\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0473984d8ffb7029fbcdd1f4c1b19b36\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\00cb73c6ed45989775fb39378d006db4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\00cb73c6ed45989775fb39378d006db4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\d9ab44a18f5c34df27e86158e7e09dda\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\d9ab44a18f5c34df27e86158e7e09dda\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a83cedb1a862777baa8bd9b1c8703c2d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a83cedb1a862777baa8bd9b1c8703c2d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\66a06367986daf3fef696dacbd603913\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\66a06367986daf3fef696dacbd603913\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects for code-projects\android projects\app_JustChess-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\04d716a96b40497cd1745b21a717c98a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\04d716a96b40497cd1745b21a717c98a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\957b1d9dcd159d3dc4859843e1b557bb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\957b1d9dcd159d3dc4859843e1b557bb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\cb5eacfdf066d97dd3c3d2b5621c6865\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\cb5eacfdf066d97dd3c3d2b5621c6865\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\b56fdcb9057624af16bf48ba3d39dfd9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\b56fdcb9057624af16bf48ba3d39dfd9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\c45f3906f05b19a5145d762141b2ebaf\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\c45f3906f05b19a5145d762141b2ebaf\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30df92b8e4f58219a9f3bfd7584bef3b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30df92b8e4f58219a9f3bfd7584bef3b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0473984d8ffb7029fbcdd1f4c1b19b36\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\0473984d8ffb7029fbcdd1f4c1b19b36\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\00cb73c6ed45989775fb39378d006db4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\00cb73c6ed45989775fb39378d006db4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\d9ab44a18f5c34df27e86158e7e09dda\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\d9ab44a18f5c34df27e86158e7e09dda\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a83cedb1a862777baa8bd9b1c8703c2d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\a83cedb1a862777baa8bd9b1c8703c2d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\66a06367986daf3fef696dacbd603913\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\66a06367986daf3fef696dacbd603913\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\b63310d1ce7dfe229a8d313b6d55d366\AndroidManifest.xml:26:9-47
